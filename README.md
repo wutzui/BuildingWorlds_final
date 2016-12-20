@@ -3,8 +3,6 @@
 
 **link to the page:** https://wutzui.github.io/BuildingWorlds_final/index.html
 
- ![bw_final_screenshot](/Users/wutzui/Desktop/bw_final_screenshot.png)
-
 **Description**
 The room is build to create a sense of tangible reality. We created a room just like our general perception, however, there are only a few things that you could control. Just like the real world, sometimes we feel so small and powerless when it comes to a new place or an unfamiliar experience. The goal of this project is for players to find their strength to control the things they experience.  The mechanism is that players have to find the objects in the room that are clickable and keep trying when reaching the goal to win the starts. Overall, this is a puzzle game, the player needs to figure out how to win 3 points to win this game.
 
